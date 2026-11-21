@@ -1,18 +1,17 @@
-# Hi there, I'm CastyiGlitchxz! 👋
+# Nihowdy, folks, I decree thyself CastyiGlitchxz!
 
-![Profile Views](https://komarev.com/ghpvc/?username=CastyiGlitchxz&color=brightgreen)
-
-Welcome to my GitHub profile! I'm a programmer who codes for no real reason. I'll drink tea if you're kind enough to give me some. Why don't you give me some TEA!!!
+I am simply a programmer with no real goals. I'll drink just about anything caffeinated, so why don't you leave me a drink?
 
 ## About Me
-
-- 🔭 I’m currently working on [School-Chat by 01000011-00110111 (cseven)](https://github.com/01000011-00110111/School-Chat)
-- ⚡ Fun fact: I'm a self-proclaimed Software Developer / Engineer
+- I don't like Python's syntax, or the fact that it's an interpreted language.
+- I spend my time working on an Aggregate of different projects.
 
 ## Languages and Tools
 
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,12 +20,11 @@ Welcome to my GitHub profile! I'm a programmer who codes for no real reason. I'l
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## GitHub Stats
+<div style={{display: "flex"}}>
+  
+  ![CastyiGlitchxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastyiGlitchxz&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastyiGlitchxz&layout=compact&theme=radical)
 
-![CastyiGlitchxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastyiGlitchxz&show_icons=true&theme=radical)
+</div>
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastyiGlitchxz&layout=compact&theme=radical)
-
-Thank you for visiting my profile! Have a great day! 😊
+Thanks for dropping by; I kindly ask that you drop your wallet and leave.
